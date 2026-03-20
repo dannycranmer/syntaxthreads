@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 4500" width="4500" height="4500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
+  <g transform="scale(1.11111)">
   <!-- Dark solid background -->
-  <rect width="4500" height="4500" fill="#0d1117"/>
+  <rect width="5000" height="5000" fill="#0d1117"/>
   <!-- Decorative code brackets -->
   <text x="400" y="1950" font-family="'Source Code Pro','SF Mono','Fira Code','Consolas',monospace" font-size="1400" font-weight="300" fill="#58a6ff" opacity="0.15">{</text>
   <text x="3500" y="3200" font-family="'Source Code Pro','SF Mono','Fira Code','Consolas',monospace" font-size="1400" font-weight="300" fill="#58a6ff" opacity="0.15">}</text>
@@ -13,4 +14,5 @@
   <text x="2250" y="3100" font-family="'Noto Sans CJK JP','Inter','Helvetica Neue','Arial',sans-serif" font-size="380" fill="#8b949e" text-anchor="middle">¯\_(ツ)_/¯</text>
   <!-- Syntax Threads branding -->
   <text x="4300" y="4350" font-family="'Inter','Helvetica Neue','Arial',sans-serif" font-size="110" fill="#8b949e" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
+</g>
 </svg>

@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 4500" width="4500" height="4500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
+  <g transform="scale(1.11111)">
   <defs>
     <filter id="glow">
       <feGaussianBlur stdDeviation="12" result="blur"/>
@@ -13,7 +14,7 @@
     </linearGradient>
   </defs>
   <!-- Background -->
-  <rect width="4500" height="4500" fill="url(#bg)" rx="80"/>
+  <rect width="5000" height="5000" fill="url(#bg)" rx="80"/>
   <!-- Subtle grid -->
   <line x1="0" y1="1125" x2="4500" y2="1125" stroke="#1a1a2e" stroke-width="3"/>
   <line x1="0" y1="2250" x2="4500" y2="2250" stroke="#1a1a2e" stroke-width="3"/>
@@ -43,4 +44,5 @@
   <text x="2250" y="3750" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="150" fill="#555" text-anchor="middle">// I tried everything</text>
   <!-- Branding -->
   <text x="4250" y="4300" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="110" fill="#00ff41" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
+</g>
 </svg>

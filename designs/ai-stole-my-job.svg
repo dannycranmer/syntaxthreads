@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 4500" width="4500" height="4500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
+  <g transform="scale(1.11111)">
   <defs>
     <filter id="glitch">
       <feGaussianBlur stdDeviation="8" result="blur"/>
@@ -13,7 +14,7 @@
     </linearGradient>
   </defs>
   <!-- Background -->
-  <rect width="4500" height="4500" fill="url(#bg)" rx="80"/>
+  <rect width="5000" height="5000" fill="url(#bg)" rx="80"/>
   <!-- Subtle circuit lines -->
   <line x1="0" y1="900" x2="4500" y2="900" stroke="#1a1a2e" stroke-width="3"/>
   <line x1="0" y1="3600" x2="4500" y2="3600" stroke="#1a1a2e" stroke-width="3"/>
@@ -49,4 +50,5 @@
   </g>
   <!-- Branding -->
   <text x="4250" y="4350" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="110" fill="#00ff41" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
+</g>
 </svg>

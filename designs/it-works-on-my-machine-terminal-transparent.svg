@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 4500" width="4500" height="4500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
+  <g transform="scale(1.11111)">
   <!-- Transparent background -->
   <!-- Terminal window -->
   <rect x="80" y="80" width="4340" height="4340" rx="60" ry="60" fill="#1a1a2e"/>
@@ -24,4 +25,5 @@
   <text x="2250" y="3200" font-family="'Noto Sans CJK JP','Source Code Pro','SF Mono','Fira Code','Consolas',monospace" font-size="410" fill="#00ff41" text-anchor="middle" opacity="0.85">¯\_(ツ)_/¯</text>
   <!-- Syntax Threads branding -->
   <text x="4250" y="4280" font-family="'Source Code Pro','SF Mono','Fira Code','Consolas',monospace" font-size="110" fill="#00ff41" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
+</g>
 </svg>
