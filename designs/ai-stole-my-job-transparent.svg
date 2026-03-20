@@ -34,7 +34,5 @@
     <line x1="165" y1="-60" x2="300" y2="-60" stroke="#00ff41" stroke-width="8"/>
     <rect x="210" y="-105" width="45" height="30" rx="8" fill="none" stroke="#00ff41" stroke-width="8"/>
   </g>
-  <!-- Branding -->
-  <text x="4250" y="4350" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="110" fill="#00ff41" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
 </g>
 </svg>

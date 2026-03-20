@@ -11,7 +11,5 @@
   <rect x="1500" y="2300" width="1500" height="12" fill="#58a6ff" rx="6"/>
   <!-- Shrug emoticon -->
   <text x="2250" y="3100" font-family="'Noto Sans CJK JP','Inter','Helvetica Neue','Arial',sans-serif" font-size="380" fill="#8b949e" text-anchor="middle">¯\_(ツ)_/¯</text>
-  <!-- Syntax Threads branding -->
-  <text x="4300" y="4350" font-family="'Inter','Helvetica Neue','Arial',sans-serif" font-size="110" fill="#8b949e" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
 </g>
 </svg>

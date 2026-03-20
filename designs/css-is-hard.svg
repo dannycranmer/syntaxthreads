@@ -42,7 +42,5 @@
   <!-- Frustrated dev comments -->
   <text x="2250" y="3500" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="150" fill="#555" text-anchor="middle">// why won't you just center</text>
   <text x="2250" y="3750" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="150" fill="#555" text-anchor="middle">// I tried everything</text>
-  <!-- Branding -->
-  <text x="4250" y="4300" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="110" fill="#00ff41" text-anchor="end" opacity="0.5">{Syntax Threads}</text>
 </g>
 </svg>

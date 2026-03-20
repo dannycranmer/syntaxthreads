@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
   <defs>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="22" result="blur"/>
+      <feGaussianBlur stdDeviation="18" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -9,17 +9,9 @@
     </filter>
   </defs>
   <!-- No background - transparent -->
-  <!-- Opening brace -->
-  <text x="467" y="2778" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="1000" font-weight="800" fill="#00ff41" filter="url(#glow)">{</text>
-  <!-- Brand name -->
-  <text x="1056" y="2389" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="567" font-weight="800" fill="#e5e5e5" letter-spacing="-17">Syntax</text>
-  <text x="1056" y="3056" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="567" font-weight="800" fill="#e5e5e5" letter-spacing="-17">Threads</text>
-  <!-- Closing brace -->
-  <text x="4111" y="2778" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="1000" font-weight="800" fill="#00ff41" filter="url(#glow)">}</text>
-  <!-- Tagline -->
-  <text x="2500" y="3722" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="150" fill="#999" text-anchor="middle">humor you can wear</text>
-  <!-- Decorative cursor -->
-  <rect x="2494" y="3833" width="17" height="133" fill="#00ff41" opacity="0.5">
-    <animate attributeName="opacity" values="0.5;0;0.5" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Logo: {SyntaxThreads} — one line, braces+Threads green, Syntax white -->
+  <text x="580" y="2640" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="400" font-weight="800" fill="#00ff41" filter="url(#glow)">{</text>
+  <text x="940" y="2640" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="400" font-weight="800" fill="#e5e5e5">Syntax</text>
+  <text x="2380" y="2640" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="400" font-weight="800" fill="#00ff41" filter="url(#glow)">Threads</text>
+  <text x="4060" y="2640" font-family="'Source Code Pro','SF Mono','Fira Code',monospace" font-size="400" font-weight="800" fill="#00ff41" filter="url(#glow)">}</text>
 </svg>
